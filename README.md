@@ -1,7 +1,7 @@
 # gloucester-osm-imports
 Importing City of Gloucester, Virginia Building Footprints & Addresses  
 
-![](https://raw.githubusercontent.com/jonahadkins/gloucester-osm-imports/master/gloucesterva.PNG)
+![](https://github.com/jonahadkins/gloucester-osm-imports/blob/master/gloucesterva.png)
 
 The Virginia Geogrpahic Information Network (VGIN) provided quarterly downloads of addresses, building, boundaries and other layers through their [ArcGIS Online Organization](https://vgin.maps.arcgis.com/home/index.html). The license for the data is Public Domain.  
 

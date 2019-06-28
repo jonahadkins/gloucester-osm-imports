@@ -16,25 +16,21 @@ Import accounts:
 
 | type  |   Count |
 | ------------- | ------------- |
-| total buildings  |   |
-| total buildings with addresses  |   |
+| total buildings  | 18,620 |
+| total buildings with addresses  | 18,393 |
 
 `building=`
 
 | Building  |   Count |
 | ------------- | ------------- |
-| apartments  |   |
-| commercial  |   |
-| dormitory  |   |
-| garage  |   |
-| hospital |  |
-| house  |   |
-| industrial  |   |
-| office  |   |
-| retail  |  |
-| semidetached_house  |  |
-| shed  |  |
-| static_caravan  |  |
-| yes  |   |
+| apartments  | 283 |
+| church | 53 |
+| commercial  | 633 |
+| garage  | 24 |
+| house  |  16,509 |
+| retail  | 85 |
+| static_caravan  | 484 |
+| warehouse |  38 |
+| yes  | 511  |
 
 
